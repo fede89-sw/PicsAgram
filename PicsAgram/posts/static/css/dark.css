@@ -1,0 +1,46 @@
+html, body{
+    height: 100%;
+    background-color: rgb(36, 41, 46) !important;
+}
+h1, h2, h3, label, p{
+	color: #fff !important;
+}
+.btn{
+    background-color: rgb(73, 73, 73) !important;
+    border: gray;
+    color: #fff;
+}
+.card{
+    background-color: rgb(141, 141, 141) !important;
+}
+.navbar{
+    background-color: rgb(104, 104, 104) !important;
+}
+a{
+    color: #fff !important;
+}
+hr{
+    background-color:#fff !important;
+}
+.text-muted{
+    color: #fff !important;
+}
+.card-body{
+    background-color: #fff;
+}
+footer{
+    border-top: 1px solid rgb(41, 41, 41);
+    font-weight: bold;
+    background-color: rgb(105, 105, 105);
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.content{
+    min-height: 95%;
+}
+footer > a{
+    color: white;
+}
+input[type='file']{
+    color: #fff;
+}

@@ -1,0 +1,31 @@
+html, body{
+    height: 100%;
+}
+.far, .fas{
+    color: black;
+}
+footer{
+    border-top: 1px solid rgb(192, 192, 192);
+    font-weight: bold;
+    background-color: rgb(240, 238, 238);
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.my_navbar{
+    border-bottom: 1px solid #DDD;
+}
+.navbar-brand:hover{
+    color: rgb(151, 151, 151) !important;
+}
+.nav-link:hover{
+    color: black !important;
+}
+.post-editor{
+    min-height: 100%;
+}
+.content{
+    min-height: 95%;
+}
+footer > a{
+    color: black;
+}
